@@ -1,0 +1,20 @@
+*{
+    font-size: 40PX;
+}
+body{
+    background-color:beige;
+    border: 2px solid darksalmon;
+}
+
+h1 {
+    color: red;
+}
+
+#p1 {
+    color:coral;
+
+}
+
+.haeder {
+    color: yellow;
+}
