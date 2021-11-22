@@ -1,10 +1,18 @@
 .heading {
+<<<<<<< HEAD
     color: PINK(205, 43, 211);
+=======
+    color: rgb(205, 43, 211);
+>>>>>>> 3efc8426749c0bdcab6717d7954bc6d4ffc56392
 }
 
 
 h2 {
+<<<<<<< HEAD
     color: rgb(189, 176, 190);
+=======
+    color: rgb(180, 59, 196);
+>>>>>>> 3efc8426749c0bdcab6717d7954bc6d4ffc56392
     font-size: 40px;
 } 
 

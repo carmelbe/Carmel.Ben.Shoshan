@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @keyframes RotatingCarmel {
     0%{
         transform: rotate(0deg)
@@ -19,6 +20,8 @@ img{
 
 
 
+=======
+>>>>>>> 3efc8426749c0bdcab6717d7954bc6d4ffc56392
 body{
     background-color:beige;
 }
@@ -41,12 +44,15 @@ body{
     background-color: whitesmoke;
 }
 
+<<<<<<< HEAD
 h4{
     color: maroon;
     text-decoration: underline;
     font-size: 17px;
 }
 
+=======
+>>>>>>> 3efc8426749c0bdcab6717d7954bc6d4ffc56392
 #Photo{
     grid-area: photo;
     height: 50px;
@@ -91,6 +97,7 @@ div div{ /*a combination selector, that selects the divs that are the childs of 
     body{
         background-color: turquoise;
     }
+<<<<<<< HEAD
 }
 
 
@@ -111,4 +118,6 @@ img{
     animation-name: RotatingCarmel;
     animation-duration: 4s;
     animation-iteration-count: infinite;
+=======
+>>>>>>> 3efc8426749c0bdcab6717d7954bc6d4ffc56392
 }
