@@ -66,7 +66,7 @@ function StopMotion() {
     }
 
 var person = {firstName:    "John",
-              LastName:     "Doe",
+              LastName:     "Doe" ,
               id:           "5566",
 fullName: function() {return this.firstName + " " + this.LastName;}
 };
